@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html ng-app="pokemon">
+<head >
+	<link rel="stylesheet" href="../lib/boo2/css/bootstrap.css">
+	<link rel="stylesheet" href="../css/style.css">
+	<script src="../lib/jQuery.js"></script>
+	<title>PokeLogin</title>
+</head>
+<body class="fondo" ng-controller="listadopokemon">
+	<div class="container-fluid navBar">
+		<div class="row">
+			<div class="col-md-12">
+				<img src="https://www.wickedcooltoys.com/wp-content/uploads/2017/06/Homepage-Banner-Pokemon-Web.jpg" class="img-responsive pokk">
+
+
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid">
+		<div class="col-md-3 pad" ng-repeat="p in Listado | filter : test">
+			<div class="pokeinfo">
+				<div>
+					<img src="{{p.data.sprites.front_default}}" class="img-responsive imgpoke">
+				</div>
+				<div class="text-center nompoke">
+					<h4>{{p.data.name}}</h4>
+				</div>
+			</div>
+		</div>
+	</div>
+
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+</style>
+	<script src="../lib/angular.js"></script>
+	<script src="../lib/boo2/js/bootstrap.js"></script>
+	<script src="../js/script.js"></script>
+</body>
+</html>

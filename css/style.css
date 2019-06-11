@@ -1,0 +1,407 @@
+.fondologin{
+  background: url("https://cloud10.todocoleccion.online/cromos-antiguos/tc/2012/09/19/33311391.jpg")no-repeat ;
+  background-size: cover;
+
+  height: 900px;
+  padding: 0%;
+
+
+  position: center;
+}
+.divisionform{
+  background: url("https://fandelagua.com/wp-content/uploads/2018/02/blog_post01_0005_shutterstock_85392355.jpg")no-repeat ;
+  background-size: cover;
+  width: 60%;
+  height: 60%;
+
+  border-radius: 10px;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top:20%;
+}
+.Aguapp{
+  font-size:60px;
+  position: center;
+}
+}
+.usuarioC{
+  width: 100%;
+  background: none;
+  border:3px solid white  !important;
+  border-radius:40px !important;
+}
+.usuarioC2{
+  width: 100%;
+  background: none;
+  border:1px solid #000000 !important;
+  border-radius:20px !important;
+}
+.registrar{
+  width: 100%;
+  height: 30px;
+  font-size: 18px;
+  color: #FFF;
+  background: #616f39;
+}
+.avatar {
+  width: 10%;
+  border-radius: 20%;
+  display:block;
+  margin:auto;
+
+}
+ }
+ .padre {
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  padding: 0 1rem;
+  margin: 1rem;
+  width: 100%;
+  font-size: "6";
+}
+
+.hijo_uno {
+  background-color:;
+
+  /* IMPORTANTE */
+  width: 220px;
+  margin-left: 358px;
+  margin-right: 300px;
+  font-family: cursive;
+  font-size: :"4";
+font-size: 250%;
+color:blue;
+}
+.text {
+font-size: 160%;
+color: #FF5E07
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: url(https://www.gratistodo.com/wp-content/uploads/2016/07/pokemon-wallpapers-22.jpg) no-repeat center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.login-box {
+  width: 320px;
+  height: 420px;
+  background: white;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.login-box .avatar {
+  width: 100px;
+  height: 150px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+.login-box h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+  color: red
+}
+
+.login-box label {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  display: block;
+}
+
+.login-box input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.login-box input[type="text"], .login-box input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.login-box input[type="submit"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #b80f22;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.login-box input[type="submit"]:hover {
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+
+.login-box a {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: darkgrey;
+}
+
+.login-box a:hover {
+  color: #fff;
+}
+.login{
+  position: center;
+  font-size: 50%;
+
+
+}
+
+button.buton{
+  position: center;
+  width: 80px;
+  height: 55px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+   }
+a.logeate{
+  font-family: sans-serif;
+  font-style: italic;
+  color: red;
+  font-size: 20px;
+  background: black;
+}
+html {
+	font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+body.img {
+	background:url("https://media1.tenor.com/images/f78c2e4bef5ca120d994589f411d36aa/tenor.gif?itemid=5607196")no-repeat ;
+	background-position: center;
+	background-size: 145%;
+	height: 1000px;
+}
+
+.container {
+	max-width: 450px;
+	height: auto;
+	background-color: #EFEFEF;
+	margin: 5% auto;
+	padding-bottom: 1rem;
+
+}
+
+.form__top {
+	width: 100%;
+	text-align: center;
+	padding: 2rem 0 1rem;
+	border-top: solid .4rem #F39B53;
+	margin-bottom: 1rem;
+}
+
+.form__top h2 {
+	font-weight: bold;
+	color: #CAC8C8;
+	font-size: 18px;
+}
+
+h2 span {
+	color: #F39B53;
+}
+
+.form__reg {
+	padding: 0 2rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.btn__form {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 1rem;
+}
+
+.input, .btn__submit, .btn__reset{
+	background-color: #EFEFEF;
+	padding: .5rem;
+	margin: .5rem 0;
+	border: none;
+	border-bottom: solid #C8C8C8 .2rem;
+	transition: all .5s;
+}
+
+.input:focus {
+	border-bottom: solid #F39B53 .2rem;
+}
+
+.btn__submit, .btn__reset {
+	width: 40%;
+	border-bottom: none;
+	background-color: #31B1E5;
+	color: white;
+}
+
+.btn__reset {
+	background-color: #EDA135;
+}
+
+.btn__submit:hover {
+	background-color: #4C9ED9;
+}
+
+.btn__reset:hover{
+	background-color: #FA9535;
+}
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.contenedor{
+	background: url("http://landscape-photography-blog.com/images/pokemon-wallpapers/36406291-pokemon-wallpapers.jpg")no-repeat;
+	background-size: cover;
+	width: 100% !important;
+	height: 920px !important;
+}
+.login{
+	background:url("https://www.rosiesrewards.com/wp-content/uploads/2018/11/pokemon-iphone-wallpaper-luxury-fondos-para-whatsapp-of-pokemon-iphone-wallpaper.jpg")no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 700px;
+	opacity:0.7;
+	margin-top:15%;
+	border-radius: 60px;
+	border: 6px #000000 solid;
+}
+.nombre{
+	margin-top: 30%;
+}
+.usuario{
+	background-size: center;
+	width: 50%;
+	height: 200px;
+	margin-left: 25%;
+}
+.navBar{
+	height:auto;
+	background: transparent;
+}
+.pokk{
+	margin: 0 auto;
+	height: 200px;
+  width: 900px;
+
+
+}
+.pok{
+	color: #FFF;
+
+}
+.altototal{
+	height: 100%;
+}
+.pad{
+	padding: 4%;
+  border-radius: 100px 100px 100px 100px;
+-moz-border-radius: 100px 100px 100px 100px;
+-webkit-border-radius: 100px 100px 100px 100px;
+border: 0px solid #000000;
+}
+.pokeinfo{
+	margin: 0 auto;
+	width: 100% !important;
+	border: 4px #000000 solid white;
+}
+.imgpoke{
+	background: black;
+	margin:0 auto;
+	height: 150px !important;
+	width: 100% !important;
+  border-radius: 100px 100px 100px 100px;
+-moz-border-radius: 100px 100px 100px 100px;
+-webkit-border-radius: 100px 100px 100px 100px;
+border: 0px solid #000000;
+}
+.nompoke{
+	background:blue;
+	padding: 4%;
+	border-top: 4px solid #fff;
+  color: white;
+}
+.fondo{
+  background: yellow;
+	background-size: cover;
+}
+.centrar{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 39px;
+  color: green;
+}
+.centrarr{
+background: red;
+  text-align: center;
+  border: 1px solid black;
+
+}
